@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Rakshak",
+    "desc": "A secure Spring Boot-based system for managing criminal records, built for authorized personnel like police, jailers, and judges.",
+    "image": "rakshak",
+    "links": {
+      "code": "https://github.com/ShashwatSecure/Rakshak"
+    }
+  },
+  {
+    "name": "Currency-Converter",
+    "desc": "A React.js web app for real-time currency conversion using a reliable live API. Provides a clean UI and accurate exchange rates.",
+    "image": "currency-converter",
+    "links": {
+      "code": "https://github.com/ShashwatSecure/Currency-Converter"
+    }
+  },
+  {
+    "name": "Space-Craft-Interio",
+    "desc": "A modern interior design portfolio website built using Next.js and PostgreSQL, allowing users to browse curated design collections and book their preferred styles seamlessly.",
+    "image": "space-craft-interio",
+    "links": {
+      "code": "https://github.com/ShashwatSecure/Space-Craft-Interio"
+    }
+  },
+  {
+    "name": "Yatra-Ed",
+    "desc": "A seamless consultancy platform powered by Next.js and Supabase, helping students find the right college and course while offering expert admission guidance.",
+    "image": "yatra-ed",
+    "links": {
+      "code": "https://github.com/ShashwatSecure/yatra-ed"
+    }
+  },
+  {
+    "name": "Kaarya--Task-Manager",
+    "desc": "A Node.js-based web application designed to help users manage their daily to-do tasks in an organized and efficient manner.",
+    "image": "task-manager",
+    "links": {
+      "code": "https://github.com/ShashwatSecure/Kaarya---Task-Manager"
+    }
+  },
+  {
+    "name": "Keylogger",
+    "desc": "A Flask-based web keylogger that captures and logs user keystrokes in real-time through a simple HTML and JavaScript frontend.",
+    "image": "keylogger",
+    "links": {
+      "code": "https://github.com/ShashwatSecure/KeyLogger"
+    }
+  }
+]
