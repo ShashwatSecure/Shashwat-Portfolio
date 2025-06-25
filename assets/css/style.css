@@ -319,6 +319,8 @@ header .navbar ul li a:hover {
   .home{
     margin-top:-4rem;
     min-height:120vh;
+    flex-direction: column;
+    align-items: center;
   }
   .home .btn {
     margin: 4rem 0;
@@ -327,7 +329,7 @@ header .navbar ul li a:hover {
     margin-top: 12rem;
   }
   .home .image img {
-    margin-top: -12rem;
+    margin-top: 0;
   }
   .home .content p {
     font-size: 2.2rem;
@@ -382,7 +384,7 @@ header .navbar ul li a:hover {
   margin-top: 1rem;
 }
 .about .row .content p {
-  font-size: 2rem;
+  font-size: 2.5rem;
   margin-top: 1.5rem;
   font-family: "Nunito";
   font-weight: 600;
